@@ -191,7 +191,7 @@ section{
 .latest .song_image{
 	width: 30%;
 	height: 100%;
-	background-image:url("images/Music2.jpg"); 
+	background-image:url("Images/Music2.jpg"); 
 	background-size: cover;
 	background-position: center;
 }
@@ -365,7 +365,7 @@ section{
 	width: 20%;
 }
 .station .main-icon{
-	background: url("images/station.jpg");
+	background: url("Images/station.jpg");
 	background-position: center;
 	background-size: cover;
 	text-align: center;
@@ -389,32 +389,32 @@ section{
 	border-radius: 50%;
 }
 .station li:nth-child(2){
-	background: url("images/love.jpg");
+	background: url("Images/love.jpg");
 	background-size: cover;
 	background-position: center;
 }
 .station li:nth-child(3){
-	background: url("images/retro.jpg");
+	background: url("Images/retro.jpg");
 	background-size: cover;
 	background-position: center;
 }
 .station li:nth-child(4){
-	background: url("images/chill.jpg");
+	background: url("Images/chill.jpg");
 	background-size: cover;
 	background-position: center;
 }
 .station li:nth-child(5){
-	background: url("images/workout.jpg");
+	background: url("Images/workout.jpg");
 	background-size: cover;
 	background-position: center;
 }
 .station li:nth-child(6){
-	background: url("images/rock.jpg");
+	background: url("Images/rock.jpg");
 	background-size: cover;
 	background-position: center;
 }
 .station li:nth-child(7){
-	background: url("images/pop.jpg");
+	background: url("Images/pop.jpg");
 	background-size: cover;
 	background-position: center;
 }
